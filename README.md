@@ -5,9 +5,9 @@ Pipeline for obtaining SNPS from compatible fungal monokaryotic strains and buil
 
 Dependencies:
 
-SLURM
-GATK
-ncbi-blast
-samtools
-picard
-vcftools
+- SLURM
+- GATK
+- ncbi-blast
+- samtools
+- picard
+- vcftools
